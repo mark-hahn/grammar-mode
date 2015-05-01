@@ -1,8 +1,8 @@
 {
   "name": "grammar-mode",
   "main": "./lib/grammar-mode",
-  "version": "1.0.0",
-  "description": "Sets the grammar(syntax mode ala EMACS) of a file with a comment",
+  "version": "1.1.0",
+  "description": "Force the grammar highlighting (\"mode\" in EMACS) of a file with a comment",
   "repository": "https://github.com/mark-hahn/grammar-mode",
   "license": "MIT",
   "engines": {
