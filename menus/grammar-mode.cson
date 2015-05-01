@@ -1,0 +1,11 @@
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'Grammar Mode'
+      'submenu': [
+        { 'label': 'Check All', 'command': 'grammar-mode:check-all' }
+      ]
+    ]
+  }
+]
